@@ -3,24 +3,26 @@ body{
   font-size: 20px; 
   background-color: rgb(221, 221, 221);
   position: relative;
+  
 }
 
 .title{
 font-size: 50px;
 font-style: italic;
 float: left;
-padding-top: 30px;
-width: 65rem;
+width: 60rem;
+background-color: aqua;
 text-align: center;
+display: inline-flexbox;
 }
 
 .pic{
   border-style:solid;
   padding: 5px;
-  height: 500px;
-  width: 450px;
-  margin-top: 80px;
   border-color:aliceblue;
   border-top-right-radius: 50px;
   border-bottom-left-radius:50px ;
+}
+.line{
+  display:inline;
 }
