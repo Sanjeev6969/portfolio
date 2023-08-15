@@ -2,14 +2,15 @@ body{
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px; 
   background-color: rgb(221, 221, 221);
-  position: relative;
-  
+  padding-top: 80px;
 }
 
 .title{
-font-size: 50px;
+font-size: 42px;
 font-style: italic;
 float: left;
+margin-left: 5px;
+margin-bottom: 10px;
 width: 60rem;
 text-align: center;
 display: inline-flexbox;
@@ -17,11 +18,12 @@ display: inline-flexbox;
 
 .pic{
   border-style:solid;
+  margin-left: 20px;
+  width: 350px;
+  height: 400px;
   padding: 5px;
   border-color:aliceblue;
   border-top-right-radius: 50px;
   border-bottom-left-radius:50px ;
-}
-.line{
-  display:inline;
+  margin-top: 30px;
 }
