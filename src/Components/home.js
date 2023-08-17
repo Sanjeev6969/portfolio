@@ -12,7 +12,7 @@ const Home = () => {
         <br/><i class="bi bi-envelope-at"></i> arava.suryasanjeev@gmail.com
         </div>
         
-          <Image src={pic} width={500} height={450} roundedCircle />
+          <Image src={pic} width={450} height={450} roundedCircle />
         
         </div>       
         </>
