@@ -5,7 +5,7 @@ import logo from '../logo.png'
 import { Link} from 'react-router-dom';
 function Titlebar(){
     return(
-        <Navbar expand="lg" className="bg-body-tertiary border border-black">
+        <Navbar expand="lg" className="bg-body-tertiary border border-black fixed-top">
       <Container>
         <Navbar className="bg-body-tertiary">
         <Container>
