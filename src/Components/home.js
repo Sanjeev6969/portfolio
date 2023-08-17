@@ -8,7 +8,7 @@ const Home = () => {
         <br/>who is looking for an oppurtunity to build a career in <br/>Web-Development.
         <br/><i class="bi bi-phone"></i>(+91) 83094-04827
         <br/><i class="bi bi-envelope-at"></i> arava.suryasanjeev@gmail.com
-         </div>
+        </div>
         <img className='pic' src={pic} alt=""></img>
         
         </>
