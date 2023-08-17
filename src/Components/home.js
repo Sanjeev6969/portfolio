@@ -1,4 +1,3 @@
-import Image from 'react-bootstrap/Image';
 import '../App';
 import pic from '../Surya.jpg'
 const Home = () => {
@@ -12,8 +11,7 @@ const Home = () => {
         <br/><i class="bi bi-envelope-at"></i> arava.suryasanjeev@gmail.com
         </div>
         
-          <Image src={pic} width={450} height={450} roundedCircle />
-        
+        <img className='pic' src={pic} alt=""></img>
         </div>       
         </>
 

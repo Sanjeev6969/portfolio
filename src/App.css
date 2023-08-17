@@ -6,10 +6,10 @@ body{
 }
 
 .title{
-font-size: 42px;
+font-size: 44px;
 font-style: italic;
 float: left;
-width: 55rem;
+width: 60rem;
 text-align: center;
 display: inline-flexbox;
 }
